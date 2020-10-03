@@ -1,0 +1,8 @@
+# C++ stuff
+*.out
+
+# TexMaker stuff
+*.aux
+*.log
+*.synctex.gz
+*.tex
